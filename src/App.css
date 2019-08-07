@@ -19,6 +19,31 @@
   color: white;
 }
 
+.dashboard {
+
+  width: 100%;
+  padding: 10px;
+  border-color: rgb(151, 151, 151);
+  border-style: solid;
+  border-radius: 5px;
+  align-content: center;
+
+}
+
+.dashboard-item {
+  position: relative;
+}
+.background-green {
+  background-color: green;
+}
+.background-red {
+  background-color: red;
+}
+.background-lightblue {
+  background-color: rgb(144, 189, 240);
+}
+
+
 .App-link {
   color: #61dafb;
 }
